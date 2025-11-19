@@ -71,7 +71,7 @@ Finance/Admin sees all transactions and cash balance.
 
 Implemented through SharePoint groups + conditional visibility in Power Apps.
 
-6.Challenges & How You Overcame Them
+7.Challenges & How You Overcame Them
 
 1.Handling Attachments for Receipts
 
