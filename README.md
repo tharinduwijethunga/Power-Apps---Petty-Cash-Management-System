@@ -10,7 +10,7 @@ Power Apps - Petty Cash Management System
 
 Overview
 
-The Petty Cash Management System is a Power Apps solution built on top of SharePoint and Power Automate to digitalize how organizations submit, approve and track petty cash expenses. The system eliminates manual paperwork by providing an automated workflow for requests, approvals, cash issuance, receipt upload and reconciliation—ensuring transparency and proper financial control.
+The Petty Cash Management System is a Power Apps solution built on top of SharePoint and Power Automate to digitalize how organizations submit, approve and track petty cash expenses. The system eliminates manual paperwork by providing an automated workflow for requests, approvals, cash issuance, receipt upload and reconciliation, ensuring transparency and proper financial control.
 
 Key Features
 1. Petty Cash Request Form
